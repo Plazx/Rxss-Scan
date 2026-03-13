@@ -13,3 +13,4 @@
 2. 识别 `Content-Type` 为 `text/html` 的页面。
 3. 自动在 URL 参数中注入探测 Payload：`\"<>abc`。
 4. 检查响应正文中是否原样反射了该内容。
+
